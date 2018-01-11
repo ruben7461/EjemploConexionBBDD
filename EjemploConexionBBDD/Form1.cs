@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 //
 
-//using System.Data.Odbc;
-//using MySql.Data.Types;
-//using MySql.Data.MySqlClient;
+using System.Data.Odbc;
+using MySql.Data.Types;
+using MySql.Data.MySqlClient;
 
 namespace EjemploConexionBBDD
 {
